@@ -476,7 +476,7 @@ export const uiText: Record<Language, UiText> = {
       placeholder: "Type a command...",
       help: "Available: whoami, skills, matrix, clear",
       whoami: "Donovan Su — Full-Stack & Systems Developer",
-      skills: "C/C++, Next.js, TypeScript, Python, FastAPI, Docker, and more",
+      skills: "C/C++, Next.js, TypeScript, Python, FastAPI, Docker, and more ...( ≖‿≖)✧",
       matrix: "Entering the Matrix...",
       notFound: "command not found: ",
       exit: "Exit [ESC]",
