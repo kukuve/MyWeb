@@ -185,8 +185,8 @@ export const resumeEn: ResumeData = {
       description:
         "High-performance personal website built with Next.js App Router and Tailwind CSS, featuring decoupled data architecture, instant dark-mode persistence, and dedicated zero-loss print styling for PDF export.",
       tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      link: "https://github.com/your_username/portfolio",
-      source: "https://github.com/your_username/portfolio",
+      link: "https://github.com/kukuve/MyWeb",
+      source: "https://github.com/kukuve/MyWeb",
       featured: false,
       gradient: "from-emerald-500/25 via-teal-500/10 to-transparent",
     },
@@ -339,8 +339,8 @@ export const resumeZh: ResumeData = {
       description:
         "基于 Next.js App Router 与 Tailwind CSS 开发的高性能个人主页，实现数据与 UI 完全解耦、暗色模式自动记忆，并内置免额外插件的一键无损 PDF 简历打印排版系统。",
       tags: ["Next.js", "TypeScript", "Tailwind CSS", "Framer Motion"],
-      link: "https://github.com/your_username/portfolio",
-      source: "https://github.com/your_username/portfolio",
+      link: "https://github.com/kukuve/MyWeb",
+      source: "https://github.com/kukuve/MyWeb",
       featured: false,
       gradient: "from-emerald-500/25 via-teal-500/10 to-transparent",
     },
