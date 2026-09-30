@@ -15,7 +15,7 @@
 ## Live Demo · 在线体验
 
 <!-- TODO: 部署至 Vercel 后替换为真实地址 · Replace with the deployed URL after deploying to Vercel -->
-`https://<your-deployment>.vercel.app`
+`https://donovan-su.vercel.app/`
 
 ## Tech Stack · 技术栈
 
