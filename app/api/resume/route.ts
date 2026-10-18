@@ -26,7 +26,7 @@ const MARGIN_BOTTOM = 52;
 const COLORS = {
   text: rgb(0.12, 0.13, 0.16),
   muted: rgb(0.42, 0.44, 0.5),
-  accent: rgb(0.42, 0.27, 0.79),
+  accent: rgb(0.02, 0.47, 0.34),
   rule: rgb(0.88, 0.88, 0.9),
 };
 

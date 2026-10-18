@@ -87,8 +87,8 @@ export function ThemeToggle() {
       ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
 
       // 物理纸张及纤维颜色
-      const paperColor = currentTheme === "dark" ? "#0b0f19" : "#f1f3f5";
-      const fiberColor = currentTheme === "dark" ? "#64748b" : "#e2e8f0";
+      const paperColor = currentTheme === "dark" ? "#0b0f19" : "#ffffff";
+      const fiberColor = currentTheme === "dark" ? "#64748b" : "#d1fae5";
       const shadowColor = "rgba(0, 0, 0, 0.52)";
 
       const center: Point = { x: w / 2, y: h / 2 };

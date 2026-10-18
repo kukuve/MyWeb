@@ -155,7 +155,7 @@ export const resumeEn: ResumeData = {
       link: "https://github.com/kukuve/FinicalWeb3",
       source: "https://github.com/kukuve/FinicalWeb3",
       featured: true,
-      gradient: "from-cyan-500/25 via-blue-500/10 to-transparent",
+      gradient: "from-emerald-500/25 via-emerald-400/10 to-transparent dark:from-cyan-500/25 dark:via-blue-500/10",
     },
     {
       title: "Smart Vision IoT Glasses (MVP)",
@@ -166,7 +166,7 @@ export const resumeEn: ResumeData = {
       link: "https://github.com/kukuve/Aiglasses",
       source: "https://github.com/kukuve/Aiglasses",
       featured: true,
-      gradient: "from-violet-500/25 via-fuchsia-500/10 to-transparent",
+      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-violet-500/25 dark:via-fuchsia-500/10",
     },
     {
       title: "Clinical Mini Program",
@@ -177,7 +177,7 @@ export const resumeEn: ResumeData = {
       link: "https://github.com/kukuve/Pharmacy-Mini-program",
       source: "https://github.com/kukuve/Pharmacy-Mini-program",
       featured: true,
-      gradient: "from-sky-500/25 via-cyan-500/10 to-transparent",
+      gradient: "from-green-500/25 via-green-400/10 to-transparent dark:from-sky-500/25 dark:via-cyan-500/10",
     },
     {
       title: "Modern Engineering Portfolio & Resume Engine",
@@ -188,7 +188,7 @@ export const resumeEn: ResumeData = {
       link: "https://github.com/kukuve/MyWeb",
       source: "https://github.com/kukuve/MyWeb",
       featured: false,
-      gradient: "from-emerald-500/25 via-teal-500/10 to-transparent",
+      gradient: "from-lime-500/25 via-emerald-400/10 to-transparent dark:from-emerald-500/25 dark:via-teal-500/10",
     },
   ],
   education: [
@@ -309,7 +309,7 @@ export const resumeZh: ResumeData = {
       link: "https://github.com/kukuve/FinicalWeb3",
       source: "https://github.com/kukuve/FinicalWeb3",
       featured: true,
-      gradient: "from-cyan-500/25 via-blue-500/10 to-transparent",
+      gradient: "from-emerald-500/25 via-emerald-400/10 to-transparent dark:from-cyan-500/25 dark:via-blue-500/10",
     },
     {
       title: "智能视觉 IoT 交互眼镜 (MVP)",
@@ -320,7 +320,7 @@ export const resumeZh: ResumeData = {
       link: "https://github.com/your_username/vision-glasses",
       source: "https://github.com/your_username/vision-glasses",
       featured: true,
-      gradient: "from-violet-500/25 via-fuchsia-500/10 to-transparent",
+      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-violet-500/25 dark:via-fuchsia-500/10",
     },
     {
       title: "门诊医疗小程序",
@@ -331,7 +331,7 @@ export const resumeZh: ResumeData = {
       link: "https://github.com/kukuve/Pharmacy-Mini-program",
       source: "https://github.com/kukuve/Pharmacy-Mini-program",
       featured: true,
-      gradient: "from-sky-500/25 via-cyan-500/10 to-transparent",
+      gradient: "from-green-500/25 via-green-400/10 to-transparent dark:from-sky-500/25 dark:via-cyan-500/10",
     },
     {
       title: "现代工程风个人履历主页",
@@ -342,7 +342,7 @@ export const resumeZh: ResumeData = {
       link: "https://github.com/kukuve/MyWeb",
       source: "https://github.com/kukuve/MyWeb",
       featured: false,
-      gradient: "from-emerald-500/25 via-teal-500/10 to-transparent",
+      gradient: "from-lime-500/25 via-emerald-400/10 to-transparent dark:from-emerald-500/25 dark:via-teal-500/10",
     },
   ],
   education: [
