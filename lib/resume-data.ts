@@ -166,7 +166,7 @@ export const resumeEn: ResumeData = {
       link: "https://github.com/kukuve/Aiglasses",
       source: "https://github.com/kukuve/Aiglasses",
       featured: true,
-      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-violet-500/25 dark:via-fuchsia-500/10",
+      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-sky-400/25 dark:via-cyan-300/10",
     },
     {
       title: "Clinical Mini Program",
@@ -320,7 +320,7 @@ export const resumeZh: ResumeData = {
       link: "https://github.com/your_username/vision-glasses",
       source: "https://github.com/your_username/vision-glasses",
       featured: true,
-      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-violet-500/25 dark:via-fuchsia-500/10",
+      gradient: "from-teal-500/25 via-teal-400/10 to-transparent dark:from-sky-400/25 dark:via-cyan-300/10",
     },
     {
       title: "门诊医疗小程序",
